@@ -27,3 +27,9 @@ user.
 * Hive
 * Provider
 * GoogleFonts
+
+
+![Screenshot_20251109-120022](https://github.com/user-attachments/assets/41861fb3-2a67-4cfc-a4f8-e4d6b6a2bc14)
+![Screenshot_20251109-120033](https://github.com/user-attachments/assets/1996f229-ee1f-4276-ab90-087d0962b58f)
+![Screenshot_20251109-120026](https://github.com/user-attachments/assets/277b4684-9dfc-4e16-96e6-5bb5f3be7df0)
+
